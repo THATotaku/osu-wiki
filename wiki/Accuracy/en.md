@@ -1,4 +1,4 @@
-<!-- TODO: needs to be combined with /wiki/Gameplay/Accuracy in some way -->
+<!-- TODO: needs to be combined with /wiki/Gameplay/Accuracy in some way woof -->
 
 # Accuracy
 
